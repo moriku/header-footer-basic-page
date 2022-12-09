@@ -60,13 +60,10 @@ body {
   }
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-html {
-  font-size: 62.5%;
+.section-content {
+background-color: #2f3d4b;
+padding: 10px;
+
 }
 
 i {
