@@ -11,7 +11,7 @@ body {
 }
 /* General styles end */
 .container {
-  max-width: 960px;
+  max-width: 1024px;
   margin: 0 auto;
   padding: 15px;
 }
@@ -39,7 +39,7 @@ body {
 .navbar label {
   display: none;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
   .menu {
     width: 100%;
     max-height: 0;
@@ -61,9 +61,8 @@ body {
 }
 
 .section-content {
-background-color: #2f3d4b;
-padding: 10px;
-
+  background-color: #2f3d4b;
+  padding: 10px;
 }
 
 i {
